@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/blockchaincyberpunk1/fitness-tracker-server](https://github.com/blockchaincyberpunk1/fitness-tracker-server/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/blockchaincyberpunk1/fitness-tracker-server)](https://github.com/blockchaincyberpunk1/fitness-tracker-server/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/blockchaincyberpunk1/fitness-tracker-server)](https://github.com/blockchaincyberpunk1/fitness-tracker-server/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/blockchaincyberpunk1/fitness-tracker-server)](https://github.com/blockchaincyberpunk1/fitness-tracker-server/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/blockchaincyberpunk1/fitness-tracker-server)](https://github.com/blockchaincyberpunk1/fitness-tracker-server/pulls)
